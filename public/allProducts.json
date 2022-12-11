@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "title": "Top Watch",
+        "description": "It is a Full-stack MERN project. Use admin, seller, and buyer-specific dashboards. Where users can buy/sell used Watches. Use MongoDB for store data, Stripe for payment & basic CRUD operation done on the server site",
+        "feature": [
+            "Firebase authentication system",
+            "JWT verification system",
+            "Stripe payment system",
+            "Admin role with full control",
+            "Admin and user has different Dashboard system"
+        ],
+        "technology": [
+            "React",
+            "JWT",
+            "Firebase",
+            "Express",
+            "MongoDB,",
+            "Node js"
+        ],
+        "img1": "https://i.ibb.co/54rc2G9/img1.png",
+        "img2": "https://i.ibb.co/Z6y8xzg/img2.png",
+        "img3": "https://i.ibb.co/QP0pH9r/img3.png",
+        "liveLink": "https://assignment12-d4692.web.app/",
+        "github": "https://github.com/developertanvir2019/Top-Watch-Client"
+    },
+    {
+        "id": 2,
+        "title": "Mr Tutor",
+        "description": "This is a Full-stack (MERN) project.Firebase authentication implement in this site. Where users can add any courses. Use MongoDB for store data,CRUD operation done on the server site.User can give review any product",
+        "feature": [
+            "MongoDb Crud operation implement",
+            "JWT verification system",
+            "Any authorize user can add course",
+            "User can submit any review and also can delete",
+            "Firebase authentication system added"
+        ],
+        "technology": [
+            "MongoDB,",
+            "Node js",
+            "React",
+            "JWT",
+            "Firebase",
+            "Express"
+        ],
+        "img1": "https://i.ibb.co/BsgrJHb/Screenshot-112.png",
+        "img2": "https://i.ibb.co/k4Mj2P5/Screenshot-113.png",
+        "img3": "https://i.ibb.co/dDxcD83/img5-2.png",
+        "liveLink": "https://silver-blini-ae5dca.netlify.app/",
+        "github": "//github.com/developertanvir2019/Mr-tutor-client"
+    },
+    {
+        "id": 3,
+        "title": "E-Learner",
+        "description": "This website is about learning site . Users can purchase any type of course from this site.I use the website firebase authentication. Users can access premium access by completing the steps.",
+        "feature": [
+            "This website is about learning site",
+            "MongoDb Crud operation implement",
+            "Any authorize user can purchase course",
+            "User can get premium access for any course",
+            "Firebase authentication system added"
+        ],
+        "technology": [
+            "Express",
+            "JWT",
+            "React",
+            "Firebase",
+            "MongoDB,",
+            "Node js"
+        ],
+        "img1": "https://i.ibb.co/8NsGkYc/Screenshot-115.png",
+        "img2": "https://i.ibb.co/J26KbHd/Screenshot-116.png",
+        "img3": "https://i.ibb.co/s9PVf4F/Screenshot-117.png",
+        "liveLink": "https://e-learner-assign.web.app/",
+        "github": "https://github.com/developertanvir2019/E-learner-client"
+    }
+]
